@@ -21,7 +21,7 @@ namespace CapaControlador
         }
         public void BryanSeLaCome(int PitoBoca,int PitoPussy,int PitoAnus)
         {
-
+            int nose = 0;
         }
     }
 }

@@ -13,7 +13,7 @@ namespace CapaVista
 {
     public partial class Navegador : UserControl
     {
-        public string tbl;
+        public string tablaaaaaaaaaaaaaaaaaa;
         public string cmp;
         public TextBox txt;
         public string ruta;

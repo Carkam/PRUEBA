@@ -24,6 +24,7 @@ namespace CapaControlador
             int nose = 0;
             int yase = 1;
             int esta = nose + yase;
+            int bryanlopoenenen = 4;
         }
     }
 }

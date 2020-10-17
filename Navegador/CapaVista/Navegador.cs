@@ -34,7 +34,8 @@ namespace CapaVista
             TextBox txt1 = txt;
             int codigo = cn.codigoMax(tbl, cmp1);
             txt1.Text = codigo.ToString();
-            txt1.Enabled = false;
+            txt1.Enabled = true;
+            int jajajaja = 0;
         }
 
         private void btnAyuda_Click(object sender, EventArgs e)
